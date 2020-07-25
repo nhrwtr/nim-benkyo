@@ -32,5 +32,4 @@ else: discard
   In general the case statement is used for subrange types or enumerations 
   where it is of great help that the compiler checks 
   that you covered any possible value.
-#]
-
+]#
